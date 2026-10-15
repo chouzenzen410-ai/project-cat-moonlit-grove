@@ -12,6 +12,10 @@
 
 窗口初始为 1280×720，逻辑画布 640×360，最近邻像素采样与整数缩放。建议使用键盘；鼠标提供攻击和菜单辅助，不实现鼠标瞄准。
 
+**[下载 Windows 64 位免安装试玩包](https://github.com/chouzenzen410-ai/project-cat-moonlit-grove/releases/download/v0.1.0/ProjectCAT-Windows-Portable.zip)** · [查看 Releases](https://github.com/chouzenzen410-ai/project-cat-moonlit-grove/releases/tag/v0.1.0) · [下载完整源码](https://github.com/chouzenzen410-ai/project-cat-moonlit-grove/releases/download/v0.1.0/ProjectCAT-Source.zip)
+
+完整解压后双击 **`StartGame.cmd`**。请勿在压缩包内直接运行，保持 EXE 和 PCK 在同一目录。本次从原始 v0.1 源码重新打包，尚未在 Windows 设备重新实测。
+
 ## 操作
 
 | 按键 | 行为 |
