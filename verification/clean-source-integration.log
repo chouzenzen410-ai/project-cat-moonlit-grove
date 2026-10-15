@@ -1,0 +1,30 @@
+Godot Engine v4.5.2.stable.official.6ce3de25a - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2558)
+PASS: title state
+PASS: Enter starts first encounter
+PASS: actual movement input
+PASS: dodge spends stamina
+PASS: dodge has invulnerability
+PASS: unprotected damage
+PASS: pause freezes gameplay
+PASS: pause resumes
+PASS: stone collision blocks movement
+PASS: claw arc hits nearby enemy
+PASS: three-step combo
+PASS: charged moonburst consumes focus and damages area
+PASS: enemy 0 windup resolves distinct attack
+PASS: enemy 1 windup resolves distinct attack
+PASS: enemy 2 windup resolves distinct attack
+PASS: dodging a projectile rewards focus
+PASS: upgrade selection and next wave
+PASS: boss phase at half health
+PASS: awakened boss radial barrage
+PASS: ground hazard resolves damage
+PASS: failure state
+PASS: boss death resolves victory
+PASS: best-time persistence written
+PASS: fresh scene reset
+PASS: best time reload
+INTEGRATION RESULT: 0 failures
